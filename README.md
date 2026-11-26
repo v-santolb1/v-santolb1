@@ -1,4 +1,4 @@
-<h1 align="center">Lucas Basilio · DINK 👋</h1>
+<h1 align="center">Lucas Basilio </h1>
 
 <p align="center">
   <a href="#pt"><img src="https://flagcdn.com/48x36/br.png" width="40" alt="Português" title="Português" /></a>

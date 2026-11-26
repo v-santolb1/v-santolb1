@@ -97,10 +97,3 @@
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=v-santolb1&theme=tokyo-night&hide_border=true&area=true" alt="activity graph" />
 </p>
 
----
-
-<p align="center">
-  <i>🇧🇷 "Engenharia é transformar problemas em processos — e processos em código."</i><br/>
-  <i>🇺🇸 "Engineering is turning problems into processes — and processes into code."</i><br/>
-  <i>🇪🇸 "La ingeniería es transformar problemas en procesos — y procesos en código."</i>
-</p>

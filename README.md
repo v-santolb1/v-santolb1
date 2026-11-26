@@ -5,8 +5,7 @@
   &nbsp;&nbsp;
   <a href="#en"><img src="https://flagcdn.com/48x36/us.png" width="40" alt="English" title="English" /></a>
   &nbsp;&nbsp;
-  <a href="#es"><img src="https://flagcdn.com/48x36/es.png" width="40" alt="Español" title="Español" /></a>
-</p>
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=v-santolb1&label=Views&color=00c2ff&style=flat" alt="views" />
@@ -72,33 +71,6 @@
 | **Industrial Engineering** | Process optimization, Lean, data analysis, KPIs |
 
 <p align="right"><a href="#es">Español ⬇️</a> · <a href="#pt">⬆️ Topo</a></p>
-
----
-
-<a name="es"></a>
-## <img src="https://flagcdn.com/24x18/es.png" alt="ES" /> Español
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00C2FF&center=true&vCenter=true&width=650&lines=Ingeniero+en+Computaci%C3%B3n+%F0%9F%92%BB;Ingeniero+Industrial+%E2%9A%99%EF%B8%8F;Desarrollador+Full+Stack+%F0%9F%9A%80;C%23+%7C+JavaScript+%7C+Lua+%7C+C%2B%2B+%7C+Python+%7C+IA+%F0%9F%A4%96" alt="Typing SVG" />
-</p>
-
-- 🎓 **Ingeniero en Computación** e **Ingeniero Industrial (de Producción)**: uno tecnología con optimización de procesos
-- 🚀 Desarrollador **Full Stack**, del back-end al front-end
-- 🤖 Trabajo con **Inteligencia Artificial** y automatización
-- 🌐 Conoce mi trabajo en [**portafolio**](https://portifolio.online/lucasbasilio/engenharia-da-computacao/)
-- 🔭 Proyecto actual:  [**WK-ERP**](https://wk.com.br/erp/)
-- 🌱 Siempre aprendiendo: arquitectura de software, IA aplicada y rendimiento
-- ⚡ Dato curioso: me encanta transformar procesos manuales en sistemas automatizados
-
-| Área | Stack |
-|---|---|
-| **Back-end** | C# / .NET, Node.js, Python, C++ |
-| **Front-end** | JavaScript, TypeScript, React, HTML, CSS |
-| **Scripting** | Lua, Python |
-| **IA / Datos** | Python, PyTorch, TensorFlow, LLMs, automatización |
-| **Ingeniería Industrial** | Optimización de procesos, Lean, análisis de datos, indicadores |
-
-<p align="right"><a href="#pt">⬆️ Inicio</a></p>
 
 ---
 

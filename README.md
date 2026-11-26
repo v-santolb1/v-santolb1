@@ -58,8 +58,8 @@
 - 🎓 **Computer Engineer** and **Industrial (Production) Engineer**: I combine technology with process optimization
 - 🚀 **Full Stack** developer, from back-end to front-end
 - 🤖 Working with **Artificial Intelligence** and automation
-- 🌐 See my work on [**my portfolio**](https://portifolio.online/lucasbasilio/engenharia-da-computacao/)
-- 🔭 Current project: [**bot-financeiro-app**](https://github.com/v-santolb1/bot-financeiro-app)
+- 🌐 See my work on [**Portfólio**](https://portifolio.online/lucasbasilio/engenharia-da-computacao/)
+- 🔭 Current project: [**WK-ERP**](https://wk.com.br/erp/)
 - 🌱 Always learning: software architecture, applied AI and performance
 - ⚡ Fun fact: I love turning manual processes into automated systems
 
@@ -85,8 +85,8 @@
 - 🎓 **Ingeniero en Computación** e **Ingeniero Industrial (de Producción)**: uno tecnología con optimización de procesos
 - 🚀 Desarrollador **Full Stack**, del back-end al front-end
 - 🤖 Trabajo con **Inteligencia Artificial** y automatización
-- 🌐 Conoce mi trabajo en [**mi portafolio**](https://portifolio.online/lucasbasilio/engenharia-da-computacao/)
-- 🔭 Proyecto actual: [**bot-financeiro-app**](https://github.com/v-santolb1/bot-financeiro-app)
+- 🌐 Conoce mi trabajo en [**portafolio**](https://portifolio.online/lucasbasilio/engenharia-da-computacao/)
+- 🔭 Proyecto actual:  [**WK-ERP**](https://wk.com.br/erp/)
 - 🌱 Siempre aprendiendo: arquitectura de software, IA aplicada y rendimiento
 - ⚡ Dato curioso: me encanta transformar procesos manuales en sistemas automatizados
 

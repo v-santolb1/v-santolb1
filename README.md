@@ -31,8 +31,8 @@
 - 🎓 **Engenheiro de Computação** e **Engenheiro de Produção**: uno tecnologia com otimização de processos
 - 🚀 Desenvolvedor **Full Stack**, do back-end ao front-end
 - 🤖 Trabalho com **Inteligência Artificial** e automação
-- 🌐 Conheça meu trabalho no [**meu portfólio**](https://portifolio.online/lucasbasilio/engenharia-da-computacao/)
-- 🔭 Projeto atual: [**bot-financeiro-app**](https://github.com/v-santolb1/bot-financeiro-app)
+- 🌐 Conheça meu trabalho no [**Portfólio**](https://portifolio.online/lucasbasilio/engenharia-da-computacao/)
+- 🔭 Projeto atual: [**WK-ERP**](https://wk.com.br/erp/)
 - 🌱 Sempre aprendendo: arquitetura de software, IA aplicada e performance
 - ⚡ Curiosidade: gosto de transformar processos manuais em sistemas automatizados
 

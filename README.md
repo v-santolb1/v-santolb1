@@ -122,10 +122,6 @@
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=v-santolb1&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=1" alt="trophies" />
-</p>
-
-<p align="center">
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=v-santolb1&theme=tokyo-night&hide_border=true&area=true" alt="activity graph" />
 </p>
 
